@@ -1,0 +1,14 @@
+C:\Users\carlo\Documents\Estudo CSharp\EnumAndComposicao\EnumAndComposicao\bin\Debug\net8.0\EnumAndComposicao.exe
+C:\Users\carlo\Documents\Estudo CSharp\EnumAndComposicao\EnumAndComposicao\bin\Debug\net8.0\EnumAndComposicao.deps.json
+C:\Users\carlo\Documents\Estudo CSharp\EnumAndComposicao\EnumAndComposicao\bin\Debug\net8.0\EnumAndComposicao.runtimeconfig.json
+C:\Users\carlo\Documents\Estudo CSharp\EnumAndComposicao\EnumAndComposicao\bin\Debug\net8.0\EnumAndComposicao.dll
+C:\Users\carlo\Documents\Estudo CSharp\EnumAndComposicao\EnumAndComposicao\bin\Debug\net8.0\EnumAndComposicao.pdb
+C:\Users\carlo\Documents\Estudo CSharp\EnumAndComposicao\EnumAndComposicao\obj\Debug\net8.0\EnumAndComposicao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carlo\Documents\Estudo CSharp\EnumAndComposicao\EnumAndComposicao\obj\Debug\net8.0\EnumAndComposicao.AssemblyInfoInputs.cache
+C:\Users\carlo\Documents\Estudo CSharp\EnumAndComposicao\EnumAndComposicao\obj\Debug\net8.0\EnumAndComposicao.AssemblyInfo.cs
+C:\Users\carlo\Documents\Estudo CSharp\EnumAndComposicao\EnumAndComposicao\obj\Debug\net8.0\EnumAndComposicao.csproj.CoreCompileInputs.cache
+C:\Users\carlo\Documents\Estudo CSharp\EnumAndComposicao\EnumAndComposicao\obj\Debug\net8.0\EnumAndComposicao.dll
+C:\Users\carlo\Documents\Estudo CSharp\EnumAndComposicao\EnumAndComposicao\obj\Debug\net8.0\refint\EnumAndComposicao.dll
+C:\Users\carlo\Documents\Estudo CSharp\EnumAndComposicao\EnumAndComposicao\obj\Debug\net8.0\EnumAndComposicao.pdb
+C:\Users\carlo\Documents\Estudo CSharp\EnumAndComposicao\EnumAndComposicao\obj\Debug\net8.0\EnumAndComposicao.genruntimeconfig.cache
+C:\Users\carlo\Documents\Estudo CSharp\EnumAndComposicao\EnumAndComposicao\obj\Debug\net8.0\ref\EnumAndComposicao.dll
