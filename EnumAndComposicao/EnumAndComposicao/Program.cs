@@ -24,8 +24,8 @@ namespace EnumAndComposicao
             Console.WriteLine("How many cintracts to this worker? ");
             int n = int.Parse(Console.ReadLine());
 
-            for (int i = 1; i <= n; i++)
-            {
+                for (int i = 1; i <= n; i++)
+                {
                 Console.WriteLine($"Enter #{i} contract data:");
                 Console.WriteLine("Date (DD/MM/YYYY: ");
                 DateTime date = DateTime.Parse(Console.ReadLine());

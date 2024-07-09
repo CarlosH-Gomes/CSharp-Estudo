@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\carlo\\Documents\\Estudo CSharp\\ExercicioHerancaEPolimorfismo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{97865700-E266-441E-A92E-3740C254DFFF}|ExercicioHerancaEPolimorfismo\\ExercicioHerancaEPolimorfismo.csproj|c:\\users\\carlo\\documents\\estudo csharp\\exercicioherancaepolimorfismo\\exercicioherancaepolimorfismo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97865700-E266-441E-A92E-3740C254DFFF}|ExercicioHerancaEPolimorfismo\\ExercicioHerancaEPolimorfismo.csproj|solutionrelative:exercicioherancaepolimorfismo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97865700-E266-441E-A92E-3740C254DFFF}|ExercicioHerancaEPolimorfismo\\ExercicioHerancaEPolimorfismo.csproj|c:\\users\\carlo\\documents\\estudo csharp\\exercicioherancaepolimorfismo\\exercicioherancaepolimorfismo\\entities\\usedproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97865700-E266-441E-A92E-3740C254DFFF}|ExercicioHerancaEPolimorfismo\\ExercicioHerancaEPolimorfismo.csproj|solutionrelative:exercicioherancaepolimorfismo\\entities\\usedproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97865700-E266-441E-A92E-3740C254DFFF}|ExercicioHerancaEPolimorfismo\\ExercicioHerancaEPolimorfismo.csproj|c:\\users\\carlo\\documents\\estudo csharp\\exercicioherancaepolimorfismo\\exercicioherancaepolimorfismo\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97865700-E266-441E-A92E-3740C254DFFF}|ExercicioHerancaEPolimorfismo\\ExercicioHerancaEPolimorfismo.csproj|solutionrelative:exercicioherancaepolimorfismo\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97865700-E266-441E-A92E-3740C254DFFF}|ExercicioHerancaEPolimorfismo\\ExercicioHerancaEPolimorfismo.csproj|c:\\users\\carlo\\documents\\estudo csharp\\exercicioherancaepolimorfismo\\exercicioherancaepolimorfismo\\entities\\importedproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97865700-E266-441E-A92E-3740C254DFFF}|ExercicioHerancaEPolimorfismo\\ExercicioHerancaEPolimorfismo.csproj|solutionrelative:exercicioherancaepolimorfismo\\entities\\importedproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ImportedProduct.cs",
+              "DocumentMoniker": "C:\\Users\\carlo\\Documents\\Estudo CSharp\\ExercicioHerancaEPolimorfismo\\ExercicioHerancaEPolimorfismo\\Entities\\ImportedProduct.cs",
+              "RelativeDocumentMoniker": "ExercicioHerancaEPolimorfismo\\Entities\\ImportedProduct.cs",
+              "ToolTip": "C:\\Users\\carlo\\Documents\\Estudo CSharp\\ExercicioHerancaEPolimorfismo\\ExercicioHerancaEPolimorfismo\\Entities\\ImportedProduct.cs",
+              "RelativeToolTip": "ExercicioHerancaEPolimorfismo\\Entities\\ImportedProduct.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAA1wCAAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T14:08:33.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UsedProduct.cs",
+              "DocumentMoniker": "C:\\Users\\carlo\\Documents\\Estudo CSharp\\ExercicioHerancaEPolimorfismo\\ExercicioHerancaEPolimorfismo\\Entities\\UsedProduct.cs",
+              "RelativeDocumentMoniker": "ExercicioHerancaEPolimorfismo\\Entities\\UsedProduct.cs",
+              "ToolTip": "C:\\Users\\carlo\\Documents\\Estudo CSharp\\ExercicioHerancaEPolimorfismo\\ExercicioHerancaEPolimorfismo\\Entities\\UsedProduct.cs",
+              "RelativeToolTip": "ExercicioHerancaEPolimorfismo\\Entities\\UsedProduct.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAApwB0AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T14:06:28.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\carlo\\Documents\\Estudo CSharp\\ExercicioHerancaEPolimorfismo\\ExercicioHerancaEPolimorfismo\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "ExercicioHerancaEPolimorfismo\\Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\carlo\\Documents\\Estudo CSharp\\ExercicioHerancaEPolimorfismo\\ExercicioHerancaEPolimorfismo\\Entities\\Product.cs",
+              "RelativeToolTip": "ExercicioHerancaEPolimorfismo\\Entities\\Product.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAYwBIAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T14:02:35.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\carlo\\Documents\\Estudo CSharp\\ExercicioHerancaEPolimorfismo\\ExercicioHerancaEPolimorfismo\\Program.cs",
+              "RelativeDocumentMoniker": "ExercicioHerancaEPolimorfismo\\Program.cs",
+              "ToolTip": "C:\\Users\\carlo\\Documents\\Estudo CSharp\\ExercicioHerancaEPolimorfismo\\ExercicioHerancaEPolimorfismo\\Program.cs",
+              "RelativeToolTip": "ExercicioHerancaEPolimorfismo\\Program.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAIwA0AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T13:54:57.765Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+C:\Users\carlo\Documents\Estudo CSharp\ExercicioHerancaEPolimorfismo\ExercicioHerancaEPolimorfismo\bin\Debug\net8.0\ExercicioHerancaEPolimorfismo.exe
+C:\Users\carlo\Documents\Estudo CSharp\ExercicioHerancaEPolimorfismo\ExercicioHerancaEPolimorfismo\bin\Debug\net8.0\ExercicioHerancaEPolimorfismo.deps.json
+C:\Users\carlo\Documents\Estudo CSharp\ExercicioHerancaEPolimorfismo\ExercicioHerancaEPolimorfismo\bin\Debug\net8.0\ExercicioHerancaEPolimorfismo.runtimeconfig.json
+C:\Users\carlo\Documents\Estudo CSharp\ExercicioHerancaEPolimorfismo\ExercicioHerancaEPolimorfismo\bin\Debug\net8.0\ExercicioHerancaEPolimorfismo.dll
+C:\Users\carlo\Documents\Estudo CSharp\ExercicioHerancaEPolimorfismo\ExercicioHerancaEPolimorfismo\bin\Debug\net8.0\ExercicioHerancaEPolimorfismo.pdb
+C:\Users\carlo\Documents\Estudo CSharp\ExercicioHerancaEPolimorfismo\ExercicioHerancaEPolimorfismo\obj\Debug\net8.0\ExercicioHerancaEPolimorfismo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carlo\Documents\Estudo CSharp\ExercicioHerancaEPolimorfismo\ExercicioHerancaEPolimorfismo\obj\Debug\net8.0\ExercicioHerancaEPolimorfismo.AssemblyInfoInputs.cache
+C:\Users\carlo\Documents\Estudo CSharp\ExercicioHerancaEPolimorfismo\ExercicioHerancaEPolimorfismo\obj\Debug\net8.0\ExercicioHerancaEPolimorfismo.AssemblyInfo.cs
+C:\Users\carlo\Documents\Estudo CSharp\ExercicioHerancaEPolimorfismo\ExercicioHerancaEPolimorfismo\obj\Debug\net8.0\ExercicioHerancaEPolimorfismo.csproj.CoreCompileInputs.cache
+C:\Users\carlo\Documents\Estudo CSharp\ExercicioHerancaEPolimorfismo\ExercicioHerancaEPolimorfismo\obj\Debug\net8.0\ExercicioHerancaEPolimorfismo.sourcelink.json
+C:\Users\carlo\Documents\Estudo CSharp\ExercicioHerancaEPolimorfismo\ExercicioHerancaEPolimorfismo\obj\Debug\net8.0\ExercicioHerancaEPolimorfismo.dll
+C:\Users\carlo\Documents\Estudo CSharp\ExercicioHerancaEPolimorfismo\ExercicioHerancaEPolimorfismo\obj\Debug\net8.0\refint\ExercicioHerancaEPolimorfismo.dll
+C:\Users\carlo\Documents\Estudo CSharp\ExercicioHerancaEPolimorfismo\ExercicioHerancaEPolimorfismo\obj\Debug\net8.0\ExercicioHerancaEPolimorfismo.pdb
+C:\Users\carlo\Documents\Estudo CSharp\ExercicioHerancaEPolimorfismo\ExercicioHerancaEPolimorfismo\obj\Debug\net8.0\ExercicioHerancaEPolimorfismo.genruntimeconfig.cache
+C:\Users\carlo\Documents\Estudo CSharp\ExercicioHerancaEPolimorfismo\ExercicioHerancaEPolimorfismo\obj\Debug\net8.0\ref\ExercicioHerancaEPolimorfismo.dll
